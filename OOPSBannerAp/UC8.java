@@ -19,7 +19,7 @@ public class UC8{
                 "*    ",
                 "*    "
         });
-        charMap.put('S', new String[]{
+        charMap.put('S',new String[]{
                 " **",
                 "*    ",
                 " * ",
